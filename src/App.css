@@ -1,0 +1,17 @@
+.Role{
+  color: brown;
+  display: inline;
+  font-family: sens-serif;
+}
+
+.noRole{
+  color:red;
+  display: inline;
+  font-family: sens-serif;
+}
+
+
+
+h3{
+  font-family: sans-serif;
+}
